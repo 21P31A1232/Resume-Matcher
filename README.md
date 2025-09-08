@@ -28,5 +28,3 @@ It calculates similarity scores and ranks resumes based on relevance, helping re
 
 ---
 
-## 📂 Project Structure
-
